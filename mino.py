@@ -1,5 +1,8 @@
 import random
 
-abc = random.randrange(100, 1000)
+ab = random.randrange(10, 100)
 
-print(abc)
+ac = random.randrange(20, 30)
+
+print(ab+ac)
+
